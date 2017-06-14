@@ -1,0 +1,12 @@
+[{
+   "name" : "Happy",
+    "mood" : "Happy"
+  },
+  {
+    "name" : "Sad",
+    "mood" : "Sad"
+  },
+  {
+  "name" : "Rocking",
+    "mood" : "Rocking"
+}]
